@@ -20,7 +20,7 @@ A completed creative exploration across language, music, imagery and motion. I b
 
 The album is the proof artifact for the broader story: define the intended experience, give each capability a role, and review continuity and quality across the whole result. This demonstrates a completed creative workflow; enterprise applications require their own evaluation of reliability, governance, cost and business value.
 
-**Album release forthcoming.** [Visit my portfolio](https://dhirajraikantiwar.com)
+**Album now available.** [Watch all four films on YouTube](https://www.youtube.com/playlist?list=PLJwmSf3TmX8I) · [Explore the case study](https://dhirajraikantiwar.com/#experimentation)
 
 ## Explore
 
