@@ -12,13 +12,13 @@ An evidence-led portfolio bringing together my approach to enterprise data and A
 - Live products: India Property IQ and Worth It? AI
 - Executive Decision Brief video series
 
-## Applied AI experimentation
+## Creative work
 
 **From experiment to outcome · Man Mein Base Balaji**
 
-A completed creative exploration across language, music, imagery and motion. I brought multiple generative capabilities together through human direction, selection and editing to produce four songs and four cinematic devotional films.
+Four songs and four cinematic devotional films, connected by faith, family and care. I directed, selected and edited the work, reviewing emotional intent, continuity and the complete experience.
 
-The album is the proof artifact for the broader story: define the intended experience, give each capability a role, and review continuity and quality across the whole result. This demonstrates a completed creative workflow; enterprise applications require their own evaluation of reliability, governance, cost and business value.
+The album reflects a focus on the finished experience: clear intent, consistent storytelling and careful review across all four films.
 
 **Album now available.** [Watch all four films on YouTube](https://www.youtube.com/playlist?list=PLJwmSf3TmX8I) · [Explore the case study](https://dhirajraikantiwar.com/#experimentation)
 
@@ -28,7 +28,7 @@ The album is the proof artifact for the broader story: define the intended exper
 
 Could a parked car help warn a driver about a pedestrian hidden from view? This briefing explores a cooperative perception concept through the executive decision to invest: one controlled fleet, one blind crossing, and evidence on warning time, missed hazards, false alerts, privacy and customer willingness to pay before scaling.
 
-Presented using my AI digital twin and a labeled concept simulation. This is a product proposal, not a deployed system. Cooperative perception research predates this concept; [Morgan State University's 2025 report, archived by the US DOT](https://rosap.ntl.bts.gov/view/dot/92777), provides research background.
+This is a product proposal, not a deployed system. Cooperative perception research predates this concept; [Morgan State University's 2025 report, archived by the US DOT](https://rosap.ntl.bts.gov/view/dot/92777), provides research background.
 
 [Watch Episode 03 on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515157678277451776) · [Explore the executive series](https://dhirajraikantiwar.com/#executive-series)
 
