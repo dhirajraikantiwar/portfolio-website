@@ -9,7 +9,7 @@ An evidence-led portfolio bringing together my approach to enterprise data and A
 - Enterprise transformation across banking, media, and retail
 - Data and AI strategy grounded in better business decisions
 - Cross-functional leadership, platform modernization, and governance
-- Live products: India Property IQ and Worth It? AI
+- Live products: Valora property intelligence and Worth It?
 - Executive Decision Brief video series
 
 ## Creative work
@@ -37,3 +37,30 @@ This is a product proposal, not a deployed system. Cooperative perception resear
 Visit the complete experience at **[dhirajraikantiwar.com](https://dhirajraikantiwar.com)**.
 
 Built with Next.js, TypeScript, and Motion. Deployed on Vercel.
+
+## The redesigned experience
+
+The portfolio opens with an interactive particle portrait and direct paths to the career journey, Executive Series, and multimodal AI album. “Built through experience” follows the landing scene immediately.
+
+- LinkedIn, GitHub, and résumé links stay visible at the top on desktop and mobile.
+- Enterprise stories unfold through pinned, morphing particle scenes with drag and disruption interactions.
+- Personal products reveal horizontally as visitors scroll.
+- An original cinematic instrumental starts only when requested, with persistent mute and separate motion controls.
+- Reduced-motion preferences, keyboard navigation, and portrait fallback remain supported.
+
+## Run locally
+
+Use Node.js 20.9 or newer and pnpm.
+
+```sh
+pnpm install
+pnpm dev
+```
+
+```sh
+pnpm typecheck
+pnpm build
+pnpm start
+```
+
+Application source lives in `app/`; the portrait, soundtrack, résumé, and album art live in `public/`. Personal media and career materials belong to Dhiraj Raikantiwar; no reuse license is granted by publishing this repository.
